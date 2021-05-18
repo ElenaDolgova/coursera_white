@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/elena-dolgova/CLionProjects/coursera_white/algo/Partitioning_souvenirs.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

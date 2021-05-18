@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Werror -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/coursera_white.dir/algo/Partitioning_souvenirs.cpp.o  -o coursera_white 
